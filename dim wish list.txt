@@ -1,5 +1,4 @@
 title: My wish list
-description: Just my wish list
 
-//notes: Destiny 1 God Roll
-dimwishlist:item=1216319404&perks=4090651448,1431678320,3038247973,3824105627
+Destiny 1 God Roll
+dimwishlist:item=1216319404&perks=3038247973,3824105627
