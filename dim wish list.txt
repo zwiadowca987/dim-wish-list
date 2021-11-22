@@ -1,4 +1,4 @@
 title: My wish list
 
-notes: Destiny 1 God Roll
+//notes:Destiny 1 God Roll
 dimwishlist:item=1216319404&perks=3038247973,3824105627
